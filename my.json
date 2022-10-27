@@ -1,0 +1,1843 @@
+[
+  {
+    "name": "效果演示",
+    "address": "广东省广州市越秀区中山五路219号华联购物中心F1",
+    "id": 1,
+    "latitude": 23.12497,
+    "longitude": 113.26308,
+    "location": [
+      113.26308,
+      23.12497
+    ],
+    "phone": "13437850035",
+    "category": "快餐便当/简餐",
+    "supports": [
+      {
+        "description": "已加入“外卖保”计划，食品安全有保障",
+        "icon_color": "999999",
+        "icon_name": "保",
+        "id": 7,
+        "name": "外卖保",
+        "_id": "5a5859a19c2bc57d52df30b3"
+      },
+      {
+        "description": "准时必达，超时秒赔",
+        "icon_color": "57A9FF",
+        "icon_name": "准",
+        "id": 9,
+        "name": "准时达",
+        "_id": "5a5859a19c2bc57d52df30b2"
+      },
+      {
+        "description": "该商家支持开发票，请在下单时填写好发票抬头",
+        "icon_color": "999999",
+        "icon_name": "票",
+        "id": 4,
+        "name": "开发票",
+        "_id": "5a5859a19c2bc57d52df30b1"
+      }
+    ],
+    "status": 1,
+    "recent_order_num": 106,
+    "rating_count": 961,
+    "rating": 4.7,
+    "promotion_info": "欢迎光临，用餐高峰请提前下单，谢谢",
+    "piecewise_agent_fee": {
+      "tips": "配送费约¥5"
+    },
+    "opening_hours": [
+      "8:30/20:30"
+    ],
+    "license": {
+      "catering_service_license_image": "160e91e17fa2164.png",
+      "business_license_image": "160e91e0a9f2163.png"
+    },
+    "is_new": true,
+    "is_premium": true,
+    "image_path": "164ad0b6a3917599.jpg",
+    "identification": {
+      "registered_number": "",
+      "registered_address": "",
+      "operation_period": "",
+      "licenses_scope": "",
+      "licenses_number": "",
+      "licenses_date": "",
+      "legal_person": "",
+      "identificate_date": null,
+      "identificate_agency": "",
+      "company_name": ""
+    },
+    "float_minimum_order_amount": 20,
+    "float_delivery_fee": 5,
+    "distance": "10公里",
+    "order_lead_time": "40分钟",
+    "description": "sad",
+    "delivery_mode": {
+      "color": "57A9FF",
+      "id": 1,
+      "is_solid": true,
+      "text": "蜂鸟专送"
+    },
+    "activities": [],
+    "__v": 0
+  },
+  {
+    "name": "晶晶海鲜饭馆44444",
+    "address": "北京市丰台区卫强校村118万丰基业大厦5层555室",
+    "id": 3269,
+    "latitude": 39.874664,
+    "longitude": 116.328386,
+    "location": [
+      113.76077,
+      34.73822
+    ],
+    "phone": "88888",
+    "category": "特色菜系",
+    "supports": [
+      {
+        "description": "已加入“外卖保”计划，食品安全有保障",
+        "icon_color": "999999",
+        "icon_name": "保",
+        "id": 7,
+        "name": "外卖保",
+        "_id": "5bfc9a30d51a913e8655d397"
+      },
+      {
+        "description": "准时必达，超时秒赔",
+        "icon_color": "57A9FF",
+        "icon_name": "准",
+        "id": 9,
+        "name": "准时达",
+        "_id": "5bfc9a30d51a913e8655d396"
+      },
+      {
+        "description": "该商家支持开发票，请在下单时填写好发票抬头",
+        "icon_color": "999999",
+        "icon_name": "票",
+        "id": 4,
+        "name": "开发票",
+        "_id": "5bfc9a30d51a913e8655d395"
+      }
+    ],
+    "status": 0,
+    "recent_order_num": 100,
+    "rating_count": 218,
+    "rating": 5,
+    "promotion_info": "欢迎光临，用餐高峰请提前下单，谢谢",
+    "piecewise_agent_fee": {
+      "tips": "配送费约¥5"
+    },
+    "opening_hours": [
+      "06:30/09:00"
+    ],
+    "license": {
+      "catering_service_license_image": "",
+      "business_license_image": ""
+    },
+    "is_new": true,
+    "is_premium": true,
+    "image_path": "183cafd26f0109189.jpg",
+    "identification": {
+      "registered_number": "",
+      "registered_address": "",
+      "operation_period": "",
+      "licenses_scope": "",
+      "licenses_number": "",
+      "licenses_date": "",
+      "legal_person": "",
+      "identificate_date": null,
+      "identificate_agency": "",
+      "company_name": ""
+    },
+    "float_minimum_order_amount": 20,
+    "float_delivery_fee": 5,
+    "distance": "10公里",
+    "order_lead_time": "40分钟",
+    "description": "香喷喷4",
+    "delivery_mode": {
+      "color": "57A9FF",
+      "id": 1,
+      "is_solid": true,
+      "text": "蜂鸟专送"
+    },
+    "activities": [
+      {
+        "icon_name": "减",
+        "name": "满减优惠",
+        "description": "满30减5，满60减8",
+        "icon_color": "f07373",
+        "id": 1,
+        "_id": "5bfc9a30d51a913e8655d398"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "name": "刘亦菲",
+    "address": "广东省广州市番禺区球山西八巷与振兴北路交叉口正北方向79米",
+    "id": 3283,
+    "latitude": 22.939274,
+    "longitude": 113.397617,
+    "location": [
+      113.156124,
+      23.46175
+    ],
+    "phone": "16666666666",
+    "category": "小吃夜宵/地方小吃",
+    "supports": [
+      {
+        "description": "已加入“外卖保”计划，食品安全有保障",
+        "icon_color": "999999",
+        "icon_name": "保",
+        "id": 7,
+        "name": "外卖保",
+        "_id": "5bfd051cd51a913e8655d827"
+      },
+      {
+        "description": "准时必达，超时秒赔",
+        "icon_color": "57A9FF",
+        "icon_name": "准",
+        "id": 9,
+        "name": "准时达",
+        "_id": "5bfd051cd51a913e8655d826"
+      },
+      {
+        "description": "该商家支持开发票，请在下单时填写好发票抬头",
+        "icon_color": "999999",
+        "icon_name": "票",
+        "id": 4,
+        "name": "开发票",
+        "_id": "5bfd051cd51a913e8655d825"
+      }
+    ],
+    "status": 1,
+    "recent_order_num": 54,
+    "rating_count": 670,
+    "rating": 4.3,
+    "promotion_info": "欢迎光临，用餐高峰请提前下单，谢谢",
+    "piecewise_agent_fee": {
+      "tips": "配送费约¥5"
+    },
+    "opening_hours": [
+      "8:30/20:30"
+    ],
+    "license": {
+      "catering_service_license_image": "167545c094322799.jpg",
+      "business_license_image": "167545bf83e22798.jpg"
+    },
+    "is_new": true,
+    "is_premium": true,
+    "image_path": "183f75de960109487.jpg",
+    "identification": {
+      "registered_number": "",
+      "registered_address": "",
+      "operation_period": "",
+      "licenses_scope": "",
+      "licenses_number": "",
+      "licenses_date": "",
+      "legal_person": "",
+      "identificate_date": null,
+      "identificate_agency": "",
+      "company_name": ""
+    },
+    "float_minimum_order_amount": 20,
+    "float_delivery_fee": 5,
+    "distance": "10公里",
+    "order_lead_time": "40分钟",
+    "description": "最屌的水煮鱼",
+    "delivery_mode": {
+      "color": "57A9FF",
+      "id": 1,
+      "is_solid": true,
+      "text": "蜂鸟专送"
+    },
+    "activities": [
+      {
+        "icon_name": "特",
+        "name": "优惠大酬宾",
+        "description": "111",
+        "icon_color": "EDC123",
+        "id": 1,
+        "_id": "5bfd051cd51a913e8655d82a"
+      },
+      {
+        "icon_name": "新",
+        "name": "新用户立减",
+        "description": "2123",
+        "icon_color": "70bc46",
+        "id": 2,
+        "_id": "5bfd051cd51a913e8655d829"
+      },
+      {
+        "icon_name": "领",
+        "name": "进店领券",
+        "description": "23123",
+        "icon_color": "E3EE0D",
+        "id": 3,
+        "_id": "5bfd051cd51a913e8655d828"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "name": "书婷水果茶店",
+    "address": "广西2",
+    "id": 3284,
+    "latitude": 40.014359,
+    "longitude": 116.352733,
+    "location": [
+      108.35062,
+      22.82512
+    ],
+    "phone": "666666666",
+    "category": "小吃夜宵,地方小吃",
+    "supports": [
+      {
+        "description": "已加入“外卖保”计划，食品安全有保障",
+        "icon_color": "999999",
+        "icon_name": "保",
+        "id": 7,
+        "name": "外卖保",
+        "_id": "5bfd1e3fd51a913e8655d93c"
+      },
+      {
+        "description": "准时必达，超时秒赔",
+        "icon_color": "57A9FF",
+        "icon_name": "准",
+        "id": 9,
+        "name": "准时达",
+        "_id": "5bfd1e3fd51a913e8655d93b"
+      },
+      {
+        "description": "该商家支持开发票，请在下单时填写好发票抬头",
+        "icon_color": "999999",
+        "icon_name": "票",
+        "id": 4,
+        "name": "开发票",
+        "_id": "5bfd1e3fd51a913e8655d93a"
+      }
+    ],
+    "status": 1,
+    "recent_order_num": 547,
+    "rating_count": 95,
+    "rating": 4.4,
+    "promotion_info": "麦当劳首选",
+    "piecewise_agent_fee": {
+      "tips": "配送费约¥5"
+    },
+    "opening_hours": [
+      "06:00/20:30"
+    ],
+    "license": {
+      "catering_service_license_image": "",
+      "business_license_image": ""
+    },
+    "is_new": true,
+    "is_premium": true,
+    "image_path": "183d5c70c2f109360.jpg",
+    "identification": {
+      "registered_number": "",
+      "registered_address": "",
+      "operation_period": "",
+      "licenses_scope": "",
+      "licenses_number": "",
+      "licenses_date": "",
+      "legal_person": "",
+      "identificate_date": null,
+      "identificate_agency": "",
+      "company_name": ""
+    },
+    "float_minimum_order_amount": 20,
+    "float_delivery_fee": 5,
+    "distance": "10公里",
+    "order_lead_time": "40分钟",
+    "description": "甜蜜蜜",
+    "delivery_mode": {
+      "color": "57A9FF",
+      "id": 1,
+      "is_solid": true,
+      "text": "蜂鸟专送"
+    },
+    "activities": [
+      {
+        "icon_name": "减",
+        "name": "满减优惠",
+        "description": "满30减5，满60减8",
+        "icon_color": "f07373",
+        "id": 1,
+        "_id": "5bfd1e3fd51a913e8655d93d"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "name": "老冯烧烤店",
+    "address": "湖南",
+    "id": 3298,
+    "latitude": 34.783266,
+    "longitude": 113.750001,
+    "location": [
+      114.36792,
+      30.85941
+    ],
+    "phone": "666666666",
+    "category": "快餐便当/盖浇饭",
+    "supports": [
+      {
+        "description": "已加入“外卖保”计划，食品安全有保障",
+        "icon_color": "999999",
+        "icon_name": "保",
+        "id": 7,
+        "name": "外卖保",
+        "_id": "5bfe5975d51a913e8655e12d"
+      },
+      {
+        "description": "准时必达，超时秒赔",
+        "icon_color": "57A9FF",
+        "icon_name": "准",
+        "id": 9,
+        "name": "准时达",
+        "_id": "5bfe5975d51a913e8655e12c"
+      }
+    ],
+    "status": 0,
+    "recent_order_num": 57,
+    "rating_count": 315,
+    "rating": 4.6,
+    "promotion_info": "2",
+    "piecewise_agent_fee": {
+      "tips": "配送费约¥9"
+    },
+    "opening_hours": [
+      "06:15/06:30"
+    ],
+    "license": {
+      "catering_service_license_image": "167598d0eff22883.png",
+      "business_license_image": "167598d106622882.png"
+    },
+    "is_new": false,
+    "is_premium": true,
+    "image_path": "183f75d9f02109486.jpg",
+    "identification": {
+      "registered_number": "",
+      "registered_address": "",
+      "operation_period": "",
+      "licenses_scope": "",
+      "licenses_number": "",
+      "licenses_date": "",
+      "legal_person": "",
+      "identificate_date": null,
+      "identificate_agency": "",
+      "company_name": ""
+    },
+    "float_minimum_order_amount": 14,
+    "float_delivery_fee": 9,
+    "distance": "10公里",
+    "order_lead_time": "40分钟",
+    "description": "香喷喷",
+    "delivery_mode": {
+      "color": "57A9FF",
+      "id": 1,
+      "is_solid": true,
+      "text": "蜂鸟专送"
+    },
+    "activities": [
+      {
+        "icon_name": "减",
+        "name": "满减优惠",
+        "description": "满30减5，满60减8",
+        "icon_color": "f07373",
+        "id": 1,
+        "_id": "5bfe5975d51a913e8655e12e"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "name": "小楼泡面馆",
+    "address": "荷兰",
+    "id": 3301,
+    "latitude": 30.183254,
+    "longitude": 121.237094,
+    "location": [
+      118.311417,
+      32.302917
+    ],
+    "phone": "666666666",
+    "category": "快餐便当/盖浇饭",
+    "supports": [
+      {
+        "description": "已加入“外卖保”计划，食品安全有保障",
+        "icon_color": "999999",
+        "icon_name": "保",
+        "id": 7,
+        "name": "外卖保",
+        "_id": "5bff3d1ed51a913e8655e3ee"
+      },
+      {
+        "description": "准时必达，超时秒赔",
+        "icon_color": "57A9FF",
+        "icon_name": "准",
+        "id": 9,
+        "name": "准时达",
+        "_id": "5bff3d1ed51a913e8655e3ed"
+      },
+      {
+        "description": "该商家支持开发票，请在下单时填写好发票抬头",
+        "icon_color": "999999",
+        "icon_name": "票",
+        "id": 4,
+        "name": "开发票",
+        "_id": "5bff3d1ed51a913e8655e3ec"
+      }
+    ],
+    "status": 0,
+    "recent_order_num": 32,
+    "rating_count": 705,
+    "rating": 4.8,
+    "promotion_info": "绿色健康环保",
+    "piecewise_agent_fee": {
+      "tips": "配送费约¥2"
+    },
+    "opening_hours": [
+      "08:00/20:00"
+    ],
+    "license": {
+      "catering_service_license_image": "1675d06bb1f22908.png",
+      "business_license_image": "1675d069bbf22907.png"
+    },
+    "is_new": true,
+    "is_premium": true,
+    "image_path": "183cb03fef9109195.png",
+    "identification": {
+      "registered_number": "",
+      "registered_address": "",
+      "operation_period": "",
+      "licenses_scope": "",
+      "licenses_number": "",
+      "licenses_date": "",
+      "legal_person": "",
+      "identificate_date": null,
+      "identificate_agency": "",
+      "company_name": ""
+    },
+    "float_minimum_order_amount": 15,
+    "float_delivery_fee": 2,
+    "distance": "10公里",
+    "order_lead_time": "40分钟",
+    "description": "新客免单",
+    "delivery_mode": {
+      "color": "57A9FF",
+      "id": 1,
+      "is_solid": true,
+      "text": "蜂鸟专送"
+    },
+    "activities": [
+      {
+        "icon_name": "减",
+        "name": "满减优惠",
+        "description": "满30减5，满60减8",
+        "icon_color": "f07373",
+        "id": 1,
+        "_id": "5bff3d1ed51a913e8655e3ef"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "name": "香香的臭豆腐",
+    "address": "非洲",
+    "id": 3303,
+    "latitude": 28.4969,
+    "longitude": 115.93785,
+    "location": [
+      121.87924,
+      29.47069
+    ],
+    "phone": "666666666",
+    "category": "异国料理,全部异国料理",
+    "supports": [
+      {
+        "description": "已加入“外卖保”计划，食品安全有保障",
+        "icon_color": "999999",
+        "icon_name": "保",
+        "id": 7,
+        "name": "外卖保",
+        "_id": "5bff60f5d51a913e8655e5d0"
+      },
+      {
+        "description": "准时必达，超时秒赔",
+        "icon_color": "57A9FF",
+        "icon_name": "准",
+        "id": 9,
+        "name": "准时达",
+        "_id": "5bff60f5d51a913e8655e5cf"
+      },
+      {
+        "description": "该商家支持开发票，请在下单时填写好发票抬头",
+        "icon_color": "999999",
+        "icon_name": "票",
+        "id": 4,
+        "name": "开发票",
+        "_id": "5bff60f5d51a913e8655e5ce"
+      }
+    ],
+    "status": 1,
+    "recent_order_num": 756,
+    "rating_count": 416,
+    "rating": 4.8,
+    "promotion_info": "123",
+    "piecewise_agent_fee": {
+      "tips": "配送费约¥5"
+    },
+    "opening_hours": [
+      "8:30/20:30"
+    ],
+    "license": {
+      "catering_service_license_image": "",
+      "business_license_image": ""
+    },
+    "is_new": true,
+    "is_premium": true,
+    "image_path": "183cb08ee4f109197.jpg",
+    "identification": {
+      "registered_number": "",
+      "registered_address": "",
+      "operation_period": "",
+      "licenses_scope": "",
+      "licenses_number": "",
+      "licenses_date": "",
+      "legal_person": "",
+      "identificate_date": null,
+      "identificate_agency": "",
+      "company_name": ""
+    },
+    "float_minimum_order_amount": 20,
+    "float_delivery_fee": 5,
+    "distance": "10公里",
+    "order_lead_time": "40分钟",
+    "description": "臭气熏天",
+    "delivery_mode": {
+      "color": "57A9FF",
+      "id": 1,
+      "is_solid": true,
+      "text": "蜂鸟专送"
+    },
+    "activities": [
+      {
+        "icon_name": "减",
+        "name": "满减优惠",
+        "description": "满30减5，满60减8",
+        "icon_color": "f07373",
+        "id": 1,
+        "_id": "5bff60f5d51a913e8655e5d1"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "name": "奶茶",
+    "address": "广东",
+    "id": 3305,
+    "latitude": 22.549075,
+    "longitude": 114.139618,
+    "location": [
+      108.972382,
+      34.329357
+    ],
+    "phone": "31 414231421",
+    "category": "甜品饮品,奶茶果汁",
+    "supports": [
+      {
+        "description": "已加入“外卖保”计划，食品安全有保障",
+        "icon_color": "999999",
+        "icon_name": "保",
+        "id": 7,
+        "name": "外卖保",
+        "_id": "5bff8e56d51a913e8655e722"
+      },
+      {
+        "description": "准时必达，超时秒赔",
+        "icon_color": "57A9FF",
+        "icon_name": "准",
+        "id": 9,
+        "name": "准时达",
+        "_id": "5bff8e56d51a913e8655e721"
+      },
+      {
+        "description": "该商家支持开发票，请在下单时填写好发票抬头",
+        "icon_color": "999999",
+        "icon_name": "票",
+        "id": 4,
+        "name": "开发票",
+        "_id": "5bff8e56d51a913e8655e720"
+      }
+    ],
+    "status": 1,
+    "recent_order_num": 67,
+    "rating_count": 190,
+    "rating": 4.7,
+    "promotion_info": "2323",
+    "piecewise_agent_fee": {
+      "tips": "配送费约¥5"
+    },
+    "opening_hours": [
+      "05:45/07:00"
+    ],
+    "license": {
+      "catering_service_license_image": "",
+      "business_license_image": ""
+    },
+    "is_new": true,
+    "is_premium": true,
+    "image_path": "183cb1378a1109205.png",
+    "identification": {
+      "registered_number": "",
+      "registered_address": "",
+      "operation_period": "",
+      "licenses_scope": "",
+      "licenses_number": "",
+      "licenses_date": "",
+      "legal_person": "",
+      "identificate_date": null,
+      "identificate_agency": "",
+      "company_name": ""
+    },
+    "float_minimum_order_amount": 20,
+    "float_delivery_fee": 5,
+    "distance": "10公里",
+    "order_lead_time": "40分钟",
+    "description": "只加珍珠不加糖",
+    "delivery_mode": {
+      "color": "57A9FF",
+      "id": 1,
+      "is_solid": true,
+      "text": "蜂鸟专送"
+    },
+    "activities": [
+      {
+        "icon_name": "减",
+        "name": "满减优惠",
+        "description": "满30减5，满60减8",
+        "icon_color": "f07373",
+        "id": 1,
+        "_id": "5bff8e56d51a913e8655e723"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "name": "梓峰甜品店",
+    "address": "香港",
+    "id": 3313,
+    "latitude": 30.66129,
+    "longitude": 114.56924,
+    "location": [
+      114.345679,
+      30.607684
+    ],
+    "phone": "13312312345",
+    "category": "甜品饮品,甜品",
+    "supports": [
+      {
+        "description": "已加入“外卖保”计划，食品安全有保障",
+        "icon_color": "999999",
+        "icon_name": "保",
+        "id": 7,
+        "name": "外卖保",
+        "_id": "5c00f5aad51a913e8655f098"
+      },
+      {
+        "description": "准时必达，超时秒赔",
+        "icon_color": "57A9FF",
+        "icon_name": "准",
+        "id": 9,
+        "name": "准时达",
+        "_id": "5c00f5aad51a913e8655f097"
+      },
+      {
+        "description": "该商家支持开发票，请在下单时填写好发票抬头",
+        "icon_color": "999999",
+        "icon_name": "票",
+        "id": 4,
+        "name": "开发票",
+        "_id": "5c00f5aad51a913e8655f096"
+      }
+    ],
+    "status": 0,
+    "recent_order_num": 669,
+    "rating_count": 304,
+    "rating": 4.8,
+    "promotion_info": "123",
+    "piecewise_agent_fee": {
+      "tips": "配送费约¥5"
+    },
+    "opening_hours": [
+      "06:15/06:30"
+    ],
+    "license": {
+      "catering_service_license_image": "",
+      "business_license_image": ""
+    },
+    "is_new": true,
+    "is_premium": false,
+    "image_path": "183cb14a4f4109206.png",
+    "identification": {
+      "registered_number": "",
+      "registered_address": "",
+      "operation_period": "",
+      "licenses_scope": "",
+      "licenses_number": "",
+      "licenses_date": "",
+      "legal_person": "",
+      "identificate_date": null,
+      "identificate_agency": "",
+      "company_name": ""
+    },
+    "float_minimum_order_amount": 20,
+    "float_delivery_fee": 5,
+    "distance": "10公里",
+    "order_lead_time": "40分钟",
+    "description": "齁就完了",
+    "delivery_mode": {
+      "color": "57A9FF",
+      "id": 1,
+      "is_solid": true,
+      "text": "蜂鸟专送"
+    },
+    "activities": [
+      {
+        "icon_name": "减",
+        "name": "满减优惠",
+        "description": "满30减5，满60减8",
+        "icon_color": "f07373",
+        "id": 1,
+        "_id": "5c00f5aad51a913e8655f09a"
+      },
+      {
+        "icon_name": "特",
+        "name": "优惠大酬宾",
+        "description": "123",
+        "icon_color": "EDC123",
+        "id": 2,
+        "_id": "5c00f5aad51a913e8655f099"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "name": "TTcoffee",
+    "address": "广东",
+    "id": 3321,
+    "latitude": 40.183789,
+    "longitude": 116.880504,
+    "location": [
+      116.37845,
+      39.98758
+    ],
+    "phone": "13312312345",
+    "category": "甜品饮品,咖啡",
+    "supports": [
+      {
+        "description": "已加入“外卖保”计划，食品安全有保障",
+        "icon_color": "999999",
+        "icon_name": "保",
+        "id": 7,
+        "name": "外卖保",
+        "_id": "5c03b794777a205b1afd13b7"
+      },
+      {
+        "description": "准时必达，超时秒赔",
+        "icon_color": "57A9FF",
+        "icon_name": "准",
+        "id": 9,
+        "name": "准时达",
+        "_id": "5c03b794777a205b1afd13b6"
+      },
+      {
+        "description": "该商家支持开发票，请在下单时填写好发票抬头",
+        "icon_color": "999999",
+        "icon_name": "票",
+        "id": 4,
+        "name": "开发票",
+        "_id": "5c03b794777a205b1afd13b5"
+      }
+    ],
+    "status": 1,
+    "recent_order_num": 476,
+    "rating_count": 965,
+    "rating": 5,
+    "promotion_info": "那么大",
+    "piecewise_agent_fee": {
+      "tips": "配送费约¥5"
+    },
+    "opening_hours": [
+      "09:30/22:30"
+    ],
+    "license": {
+      "catering_service_license_image": "1676e844d6623087.jpeg",
+      "business_license_image": "1676e8415bc23086.jpeg"
+    },
+    "is_new": false,
+    "is_premium": true,
+    "image_path": "183cb1537da109207.png",
+    "identification": {
+      "registered_number": "",
+      "registered_address": "",
+      "operation_period": "",
+      "licenses_scope": "",
+      "licenses_number": "",
+      "licenses_date": "",
+      "legal_person": "",
+      "identificate_date": null,
+      "identificate_agency": "",
+      "company_name": ""
+    },
+    "float_minimum_order_amount": 20,
+    "float_delivery_fee": 5,
+    "distance": "10公里",
+    "order_lead_time": "40分钟",
+    "description": "我就问你能不能睡着觉了？",
+    "delivery_mode": {
+      "color": "57A9FF",
+      "id": 1,
+      "is_solid": true,
+      "text": "蜂鸟专送"
+    },
+    "activities": [
+      {
+        "icon_name": "减",
+        "name": "满减优惠",
+        "description": "满30减5，满60减8",
+        "icon_color": "f07373",
+        "id": 1,
+        "_id": "5c03b794777a205b1afd13b9"
+      },
+      {
+        "icon_name": "新",
+        "name": "新用户立减",
+        "description": "fgfsajsf",
+        "icon_color": "70bc46",
+        "id": 2,
+        "_id": "5c03b794777a205b1afd13b8"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "name": "隆江猪脚饭",
+    "address": "隆江",
+    "id": 3324,
+    "latitude": 39.942111,
+    "longitude": 116.33676,
+    "location": [
+      117.290361,
+      31.798881
+    ],
+    "phone": "666666666",
+    "category": "异国料理,西餐",
+    "supports": [
+      {
+        "description": "已加入“外卖保”计划，食品安全有保障",
+        "icon_color": "999999",
+        "icon_name": "保",
+        "id": 7,
+        "name": "外卖保",
+        "_id": "5c03db02777a205b1afd1421"
+      },
+      {
+        "description": "准时必达，超时秒赔",
+        "icon_color": "57A9FF",
+        "icon_name": "准",
+        "id": 9,
+        "name": "准时达",
+        "_id": "5c03db02777a205b1afd1420"
+      },
+      {
+        "description": "该商家支持开发票，请在下单时填写好发票抬头",
+        "icon_color": "999999",
+        "icon_name": "票",
+        "id": 4,
+        "name": "开发票",
+        "_id": "5c03db02777a205b1afd141f"
+      }
+    ],
+    "status": 0,
+    "recent_order_num": 837,
+    "rating_count": 842,
+    "rating": 4.3,
+    "promotion_info": "店铺标语",
+    "piecewise_agent_fee": {
+      "tips": "配送费约¥5"
+    },
+    "opening_hours": [
+      "8:30/20:30"
+    ],
+    "license": {
+      "catering_service_license_image": "1676f0f8bc823094.png",
+      "business_license_image": "1676f0f8d4023093.png"
+    },
+    "is_new": true,
+    "is_premium": true,
+    "image_path": "183cb160f1d109209.png",
+    "identification": {
+      "registered_number": "",
+      "registered_address": "",
+      "operation_period": "",
+      "licenses_scope": "",
+      "licenses_number": "",
+      "licenses_date": "",
+      "legal_person": "",
+      "identificate_date": null,
+      "identificate_agency": "",
+      "company_name": ""
+    },
+    "float_minimum_order_amount": 20,
+    "float_delivery_fee": 5,
+    "distance": "10公里",
+    "order_lead_time": "40分钟",
+    "description": "只要9.9",
+    "delivery_mode": {
+      "color": "57A9FF",
+      "id": 1,
+      "is_solid": true,
+      "text": "蜂鸟专送"
+    },
+    "activities": [
+      {
+        "icon_name": "减",
+        "name": "满减优惠",
+        "description": "满30减5，满60减8",
+        "icon_color": "f07373",
+        "id": 1,
+        "_id": "5c03db02777a205b1afd1422"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "name": "朱婷熊猫馆",
+    "address": "广西",
+    "id": 3325,
+    "latitude": 39.88019,
+    "longitude": 116.360474,
+    "location": [
+      114.338188,
+      30.544786
+    ],
+    "phone": "666666666",
+    "category": "异国料理,日韩料理",
+    "supports": [
+      {
+        "description": "已加入“外卖保”计划，食品安全有保障",
+        "icon_color": "999999",
+        "icon_name": "保",
+        "id": 7,
+        "name": "外卖保",
+        "_id": "5c048a62777a205b1afd1531"
+      },
+      {
+        "description": "准时必达，超时秒赔",
+        "icon_color": "57A9FF",
+        "icon_name": "准",
+        "id": 9,
+        "name": "准时达",
+        "_id": "5c048a62777a205b1afd1530"
+      },
+      {
+        "description": "该商家支持开发票，请在下单时填写好发票抬头",
+        "icon_color": "999999",
+        "icon_name": "票",
+        "id": 4,
+        "name": "开发票",
+        "_id": "5c048a62777a205b1afd152f"
+      }
+    ],
+    "status": 0,
+    "recent_order_num": 117,
+    "rating_count": 692,
+    "rating": 4.7,
+    "promotion_info": "22",
+    "piecewise_agent_fee": {
+      "tips": "配送费约¥5"
+    },
+    "opening_hours": [
+      "8:30/20:30"
+    ],
+    "license": {
+      "catering_service_license_image": "",
+      "business_license_image": ""
+    },
+    "is_new": true,
+    "is_premium": true,
+    "image_path": "183cb123542109203.png",
+    "identification": {
+      "registered_number": "",
+      "registered_address": "",
+      "operation_period": "",
+      "licenses_scope": "",
+      "licenses_number": "",
+      "licenses_date": "",
+      "legal_person": "",
+      "identificate_date": null,
+      "identificate_agency": "",
+      "company_name": ""
+    },
+    "float_minimum_order_amount": 20,
+    "float_delivery_fee": 5,
+    "distance": "10公里",
+    "order_lead_time": "40分钟",
+    "description": "可可爱爱",
+    "delivery_mode": {
+      "color": "57A9FF",
+      "id": 1,
+      "is_solid": true,
+      "text": "蜂鸟专送"
+    },
+    "activities": [],
+    "__v": 0
+  },
+  {
+    "name": "亮晶晶燕窝",
+    "address": "河南",
+    "id": 3329,
+    "latitude": 34.244279,
+    "longitude": 108.940157,
+    "location": [
+      121.48275,
+      31.245287
+    ],
+    "phone": "666666666",
+    "category": "快餐便当,简餐",
+    "supports": [
+      {
+        "description": "已加入“外卖保”计划，食品安全有保障",
+        "icon_color": "999999",
+        "icon_name": "保",
+        "id": 7,
+        "name": "外卖保",
+        "_id": "5c04d83c777a205b1afd178f"
+      },
+      {
+        "description": "准时必达，超时秒赔",
+        "icon_color": "57A9FF",
+        "icon_name": "准",
+        "id": 9,
+        "name": "准时达",
+        "_id": "5c04d83c777a205b1afd178e"
+      },
+      {
+        "description": "该商家支持开发票，请在下单时填写好发票抬头",
+        "icon_color": "999999",
+        "icon_name": "票",
+        "id": 4,
+        "name": "开发票",
+        "_id": "5c04d83c777a205b1afd178d"
+      }
+    ],
+    "status": 1,
+    "recent_order_num": 10,
+    "rating_count": 31,
+    "rating": 4.4,
+    "promotion_info": "213",
+    "piecewise_agent_fee": {
+      "tips": "配送费约¥5"
+    },
+    "opening_hours": [
+      "8:30/20:30"
+    ],
+    "license": {
+      "catering_service_license_image": "16772ecb68923159.jpg",
+      "business_license_image": "16772ec9c5a23158.jpg"
+    },
+    "is_new": true,
+    "is_premium": true,
+    "image_path": "183cb1c2cdd109210.png",
+    "identification": {
+      "registered_number": "",
+      "registered_address": "",
+      "operation_period": "",
+      "licenses_scope": "",
+      "licenses_number": "",
+      "licenses_date": "",
+      "legal_person": "",
+      "identificate_date": null,
+      "identificate_agency": "",
+      "company_name": ""
+    },
+    "float_minimum_order_amount": 20,
+    "float_delivery_fee": 5,
+    "distance": "10公里",
+    "order_lead_time": "40分钟",
+    "description": "伊南亲自上山采摘",
+    "delivery_mode": {
+      "color": "57A9FF",
+      "id": 1,
+      "is_solid": true,
+      "text": "蜂鸟专送"
+    },
+    "activities": [
+      {
+        "icon_name": "减",
+        "name": "满减优惠",
+        "description": "满30减5，满60减8",
+        "icon_color": "f07373",
+        "id": 1,
+        "_id": "5c04d83c777a205b1afd1790"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "name": "鲱鱼罐头",
+    "address": "非洲",
+    "id": 3340,
+    "latitude": 40.159102,
+    "longitude": 116.815999,
+    "location": [
+      121.42719,
+      31.13257
+    ],
+    "phone": "666666666",
+    "category": "异国料理,日韩料理",
+    "supports": [
+      {
+        "description": "已加入“外卖保”计划，食品安全有保障",
+        "icon_color": "999999",
+        "icon_name": "保",
+        "id": 7,
+        "name": "外卖保",
+        "_id": "5c04f7b2777a205b1afd1920"
+      },
+      {
+        "description": "准时必达，超时秒赔",
+        "icon_color": "57A9FF",
+        "icon_name": "准",
+        "id": 9,
+        "name": "准时达",
+        "_id": "5c04f7b2777a205b1afd191f"
+      },
+      {
+        "description": "该商家支持开发票，请在下单时填写好发票抬头",
+        "icon_color": "999999",
+        "icon_name": "票",
+        "id": 4,
+        "name": "开发票",
+        "_id": "5c04f7b2777a205b1afd191e"
+      }
+    ],
+    "status": 0,
+    "recent_order_num": 819,
+    "rating_count": 892,
+    "rating": 4.4,
+    "promotion_info": "欢迎光临，用餐高峰请提前下单，谢谢",
+    "piecewise_agent_fee": {
+      "tips": "配送费约¥5"
+    },
+    "opening_hours": [
+      "8:30/20:30"
+    ],
+    "license": {
+      "catering_service_license_image": "16773678ecb23180.png",
+      "business_license_image": "1677367a59923179.jpg"
+    },
+    "is_new": true,
+    "is_premium": true,
+    "image_path": "183cb254053109215.png",
+    "identification": {
+      "registered_number": "",
+      "registered_address": "",
+      "operation_period": "",
+      "licenses_scope": "",
+      "licenses_number": "",
+      "licenses_date": "",
+      "legal_person": "",
+      "identificate_date": null,
+      "identificate_agency": "",
+      "company_name": ""
+    },
+    "float_minimum_order_amount": 20,
+    "float_delivery_fee": 5,
+    "distance": "10公里",
+    "order_lead_time": "40分钟",
+    "description": "伊南亲自品尝后强烈推荐！买它！",
+    "delivery_mode": {
+      "color": "57A9FF",
+      "id": 1,
+      "is_solid": true,
+      "text": "蜂鸟专送"
+    },
+    "activities": [
+      {
+        "icon_name": "减",
+        "name": "满减优惠",
+        "description": "满30减5，满60减8",
+        "icon_color": "f07373",
+        "id": 1,
+        "_id": "5c04f7b2777a205b1afd1923"
+      },
+      {
+        "icon_name": "领",
+        "name": "进店领券",
+        "description": "11",
+        "icon_color": "E3EE0D",
+        "id": 2,
+        "_id": "5c04f7b2777a205b1afd1922"
+      },
+      {
+        "icon_name": "特",
+        "name": "优惠大酬宾",
+        "description": "22",
+        "icon_color": "EDC123",
+        "id": 3,
+        "_id": "5c04f7b2777a205b1afd1921"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "name": "依北鲨鱼翅",
+    "address": "太平洋",
+    "id": 3345,
+    "latitude": 23.132255,
+    "longitude": 113.371472,
+    "location": [
+      120.67765,
+      31.97067
+    ],
+    "phone": "13312312345",
+    "category": "果蔬生鲜,海鲜水产",
+    "supports": [
+      {
+        "description": "已加入“外卖保”计划，食品安全有保障",
+        "icon_color": "999999",
+        "icon_name": "保",
+        "id": 7,
+        "name": "外卖保",
+        "_id": "5c053781777a205b1afd1a64"
+      },
+      {
+        "description": "准时必达，超时秒赔",
+        "icon_color": "57A9FF",
+        "icon_name": "准",
+        "id": 9,
+        "name": "准时达",
+        "_id": "5c053781777a205b1afd1a63"
+      },
+      {
+        "description": "该商家支持开发票，请在下单时填写好发票抬头",
+        "icon_color": "999999",
+        "icon_name": "票",
+        "id": 4,
+        "name": "开发票",
+        "_id": "5c053781777a205b1afd1a62"
+      }
+    ],
+    "status": 1,
+    "recent_order_num": 487,
+    "rating_count": 823,
+    "rating": 4.1,
+    "promotion_info": "32",
+    "piecewise_agent_fee": {
+      "tips": "配送费约¥5"
+    },
+    "opening_hours": [
+      "8:30/20:30"
+    ],
+    "license": {
+      "catering_service_license_image": "1677460bba923197.jpg",
+      "business_license_image": "1677460934d23196.jpg"
+    },
+    "is_new": true,
+    "is_premium": true,
+    "image_path": "183cb2348b8109214.png",
+    "identification": {
+      "registered_number": "",
+      "registered_address": "",
+      "operation_period": "",
+      "licenses_scope": "",
+      "licenses_number": "",
+      "licenses_date": "",
+      "legal_person": "",
+      "identificate_date": null,
+      "identificate_agency": "",
+      "company_name": ""
+    },
+    "float_minimum_order_amount": 20,
+    "float_delivery_fee": 5,
+    "distance": "10公里",
+    "order_lead_time": "40分钟",
+    "description": "高端的鱼翅 往往采用最朴素的涂涂晶晶采摘方式",
+    "delivery_mode": {
+      "color": "57A9FF",
+      "id": 1,
+      "is_solid": true,
+      "text": "蜂鸟专送"
+    },
+    "activities": [
+      {
+        "icon_name": "减",
+        "name": "满减优惠",
+        "description": "满30减5，满60减8",
+        "icon_color": "f07373",
+        "id": 1,
+        "_id": "5c053781777a205b1afd1a65"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "name": "香脆菠萝包",
+    "address": "广东",
+    "id": 3346,
+    "latitude": 23.132255,
+    "longitude": 113.371472,
+    "location": [
+      114.087303,
+      22.548252
+    ],
+    "phone": "666666666",
+    "category": "快餐便当,简餐",
+    "supports": [
+      {
+        "description": "已加入“外卖保”计划，食品安全有保障",
+        "icon_color": "999999",
+        "icon_name": "保",
+        "id": 7,
+        "name": "外卖保",
+        "_id": "5c05f1a4777a205b1afd1c8f"
+      },
+      {
+        "description": "准时必达，超时秒赔",
+        "icon_color": "57A9FF",
+        "icon_name": "准",
+        "id": 9,
+        "name": "准时达",
+        "_id": "5c05f1a4777a205b1afd1c8e"
+      },
+      {
+        "description": "该商家支持开发票，请在下单时填写好发票抬头",
+        "icon_color": "999999",
+        "icon_name": "票",
+        "id": 4,
+        "name": "开发票",
+        "_id": "5c05f1a4777a205b1afd1c8d"
+      }
+    ],
+    "status": 0,
+    "recent_order_num": 114,
+    "rating_count": 523,
+    "rating": 4.1,
+    "promotion_info": "23423432432",
+    "piecewise_agent_fee": {
+      "tips": "配送费约¥8"
+    },
+    "opening_hours": [
+      "06:30/06:45"
+    ],
+    "license": {
+      "catering_service_license_image": "16777376b4a23213.png",
+      "business_license_image": "16777370d9b23211.png"
+    },
+    "is_new": true,
+    "is_premium": true,
+    "image_path": "183cb2aad63109216.png",
+    "identification": {
+      "registered_number": "",
+      "registered_address": "",
+      "operation_period": "",
+      "licenses_scope": "",
+      "licenses_number": "",
+      "licenses_date": "",
+      "legal_person": "",
+      "identificate_date": null,
+      "identificate_agency": "",
+      "company_name": ""
+    },
+    "float_minimum_order_amount": 23,
+    "float_delivery_fee": 8,
+    "distance": "10公里",
+    "order_lead_time": "40分钟",
+    "description": "绝绝子，晶晶尝了都说好！",
+    "delivery_mode": {
+      "color": "57A9FF",
+      "id": 1,
+      "is_solid": true,
+      "text": "蜂鸟专送"
+    },
+    "activities": [],
+    "__v": 0
+  },
+  {
+    "name": "开心",
+    "address": "江西省南昌市青山湖区双港东大街169号",
+    "id": 3352,
+    "latitude": 34.783266,
+    "longitude": 113.750001,
+    "location": [
+      113.366768,
+      23.194889
+    ],
+    "phone": "1232324",
+    "category": "快餐便当,包子粥店",
+    "supports": [
+      {
+        "description": "已加入“外卖保”计划，食品安全有保障",
+        "icon_color": "999999",
+        "icon_name": "保",
+        "id": 7,
+        "name": "外卖保",
+        "_id": "5c063a7a777a205b1afd1eec"
+      },
+      {
+        "description": "准时必达，超时秒赔",
+        "icon_color": "57A9FF",
+        "icon_name": "准",
+        "id": 9,
+        "name": "准时达",
+        "_id": "5c063a7a777a205b1afd1eeb"
+      },
+      {
+        "description": "该商家支持开发票，请在下单时填写好发票抬头",
+        "icon_color": "999999",
+        "icon_name": "票",
+        "id": 4,
+        "name": "开发票",
+        "_id": "5c063a7a777a205b1afd1eea"
+      }
+    ],
+    "status": 0,
+    "recent_order_num": 205,
+    "rating_count": 163,
+    "rating": 4,
+    "promotion_info": "sdfs",
+    "piecewise_agent_fee": {
+      "tips": "配送费约¥5"
+    },
+    "opening_hours": [
+      "05:30/06:00"
+    ],
+    "license": {
+      "catering_service_license_image": "",
+      "business_license_image": "167785421b323225.png"
+    },
+    "is_new": true,
+    "is_premium": true,
+    "image_path": "183cf68bab3109310.jpg",
+    "identification": {
+      "registered_number": "",
+      "registered_address": "",
+      "operation_period": "",
+      "licenses_scope": "",
+      "licenses_number": "",
+      "licenses_date": "",
+      "legal_person": "",
+      "identificate_date": null,
+      "identificate_agency": "",
+      "company_name": ""
+    },
+    "float_minimum_order_amount": 20,
+    "float_delivery_fee": 5,
+    "distance": "10公里",
+    "order_lead_time": "40分钟",
+    "description": "asa二二",
+    "delivery_mode": {
+      "color": "57A9FF",
+      "id": 1,
+      "is_solid": true,
+      "text": "蜂鸟专送"
+    },
+    "activities": [
+      {
+        "icon_name": "减",
+        "name": "满减优惠",
+        "description": "满30减5，满60减8",
+        "icon_color": "f07373",
+        "id": 1,
+        "_id": "5c063a7a777a205b1afd1eed"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "name": "包子饿热望热望",
+    "address": "陕西省西安市鄠邑区秦渡镇长安大街65号",
+    "id": 3360,
+    "latitude": 34.107955,
+    "longitude": 108.746655,
+    "location": [
+      117.290361,
+      31.798881
+    ],
+    "phone": "187000711601",
+    "category": "快餐便当,简餐",
+    "supports": [
+      {
+        "description": "已加入“外卖保”计划，食品安全有保障",
+        "icon_color": "999999",
+        "icon_name": "保",
+        "id": 7,
+        "name": "外卖保",
+        "_id": "5c068f22777a205b1afd2195"
+      },
+      {
+        "description": "准时必达，超时秒赔",
+        "icon_color": "57A9FF",
+        "icon_name": "准",
+        "id": 9,
+        "name": "准时达",
+        "_id": "5c068f22777a205b1afd2194"
+      },
+      {
+        "description": "该商家支持开发票，请在下单时填写好发票抬头",
+        "icon_color": "999999",
+        "icon_name": "票",
+        "id": 4,
+        "name": "开发票",
+        "_id": "5c068f22777a205b1afd2193"
+      }
+    ],
+    "status": 1,
+    "recent_order_num": 303,
+    "rating_count": 767,
+    "rating": 4.8,
+    "promotion_info": "1111",
+    "piecewise_agent_fee": {
+      "tips": "配送费约¥5"
+    },
+    "opening_hours": [
+      "8:30/20:30"
+    ],
+    "license": {
+      "catering_service_license_image": "167799f198f23251.png",
+      "business_license_image": "167799f1f8923250.png"
+    },
+    "is_new": true,
+    "is_premium": true,
+    "image_path": "183cf559d00109294.jpg",
+    "identification": {
+      "registered_number": "",
+      "registered_address": "",
+      "operation_period": "",
+      "licenses_scope": "",
+      "licenses_number": "",
+      "licenses_date": "",
+      "legal_person": "",
+      "identificate_date": null,
+      "identificate_agency": "",
+      "company_name": ""
+    },
+    "float_minimum_order_amount": 20,
+    "float_delivery_fee": 5,
+    "distance": "10公里",
+    "order_lead_time": "40分钟",
+    "description": "合肥违法和",
+    "delivery_mode": {
+      "color": "57A9FF",
+      "id": 1,
+      "is_solid": true,
+      "text": "蜂鸟专送"
+    },
+    "activities": [
+      {
+        "icon_name": "减",
+        "name": "满减优惠",
+        "description": "满30减5，满60减8",
+        "icon_color": "f07373",
+        "id": 1,
+        "_id": "5c068f22777a205b1afd2196"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "name": "快乐",
+    "address": "广东省深圳市南山区 ",
+    "id": 3367,
+    "latitude": 22.5271,
+    "longitude": 113.89872,
+    "location": [
+      114.239297,
+      22.553151
+    ],
+    "phone": "12134345",
+    "category": "快餐便当",
+    "supports": [
+      {
+        "description": "已加入“外卖保”计划，食品安全有保障",
+        "icon_color": "999999",
+        "icon_name": "保",
+        "id": 7,
+        "name": "外卖保",
+        "_id": "5c06950d777a205b1afd21e3"
+      },
+      {
+        "description": "准时必达，超时秒赔",
+        "icon_color": "57A9FF",
+        "icon_name": "准",
+        "id": 9,
+        "name": "准时达",
+        "_id": "5c06950d777a205b1afd21e2"
+      },
+      {
+        "description": "该商家支持开发票，请在下单时填写好发票抬头",
+        "icon_color": "999999",
+        "icon_name": "票",
+        "id": 4,
+        "name": "开发票",
+        "_id": "5c06950d777a205b1afd21e1"
+      }
+    ],
+    "status": 1,
+    "recent_order_num": 722,
+    "rating_count": 747,
+    "rating": 4.4,
+    "promotion_info": "qweqeeqw",
+    "piecewise_agent_fee": {
+      "tips": "配送费约¥5"
+    },
+    "opening_hours": [
+      "8:30/20:30"
+    ],
+    "license": {
+      "catering_service_license_image": "",
+      "business_license_image": ""
+    },
+    "is_new": true,
+    "is_premium": true,
+    "image_path": "183d5bff363109359.png",
+    "identification": {
+      "registered_number": "",
+      "registered_address": "",
+      "operation_period": "",
+      "licenses_scope": "",
+      "licenses_number": "",
+      "licenses_date": "",
+      "legal_person": "",
+      "identificate_date": null,
+      "identificate_agency": "",
+      "company_name": ""
+    },
+    "float_minimum_order_amount": 20,
+    "float_delivery_fee": 5,
+    "distance": "10公里",
+    "order_lead_time": "40分钟",
+    "description": "PR",
+    "delivery_mode": {
+      "color": "57A9FF",
+      "id": 1,
+      "is_solid": true,
+      "text": "蜂鸟专送"
+    },
+    "activities": [
+      {
+        "icon_name": "减",
+        "name": "满减优惠",
+        "description": "满30减5，满60减8",
+        "icon_color": "f07373",
+        "id": 1,
+        "_id": "5c06950d777a205b1afd21e4"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "name": "劲舞歌曲五个",
+    "address": "广东省深圳市盐田区 ",
+    "id": 3372,
+    "latitude": 22.549004,
+    "longitude": 114.230225,
+    "location": [
+      117.18111,
+      39.12097
+    ],
+    "phone": "13301297595",
+    "category": "异国料理,全部异国料理",
+    "supports": [
+      {
+        "description": "已加入“外卖保”计划，食品安全有保障",
+        "icon_color": "999999",
+        "icon_name": "保",
+        "id": 7,
+        "name": "外卖保",
+        "_id": "5c0736e6777a205b1afd2362"
+      },
+      {
+        "description": "准时必达，超时秒赔",
+        "icon_color": "57A9FF",
+        "icon_name": "准",
+        "id": 9,
+        "name": "准时达",
+        "_id": "5c0736e6777a205b1afd2361"
+      },
+      {
+        "description": "该商家支持开发票，请在下单时填写好发票抬头",
+        "icon_color": "999999",
+        "icon_name": "票",
+        "id": 4,
+        "name": "开发票",
+        "_id": "5c0736e6777a205b1afd2360"
+      }
+    ],
+    "status": 0,
+    "recent_order_num": 779,
+    "rating_count": 814,
+    "rating": 4.7,
+    "promotion_info": "欢迎来店品尝",
+    "piecewise_agent_fee": {
+      "tips": "配送费约¥5"
+    },
+    "opening_hours": [
+      "05:30/22:15"
+    ],
+    "license": {
+      "catering_service_license_image": "1677c2ac25223264.jpg",
+      "business_license_image": "1677c2ab80723263.jpg"
+    },
+    "is_new": true,
+    "is_premium": true,
+    "image_path": "183cf5b44ea109299.jpg",
+    "identification": {
+      "registered_number": "",
+      "registered_address": "",
+      "operation_period": "",
+      "licenses_scope": "",
+      "licenses_number": "",
+      "licenses_date": "",
+      "legal_person": "",
+      "identificate_date": null,
+      "identificate_agency": "",
+      "company_name": ""
+    },
+    "float_minimum_order_amount": 20,
+    "float_delivery_fee": 5,
+    "distance": "10公里",
+    "order_lead_time": "40分钟",
+    "description": "简介ga古代帝王的",
+    "delivery_mode": {
+      "color": "57A9FF",
+      "id": 1,
+      "is_solid": true,
+      "text": "蜂鸟专送"
+    },
+    "activities": [
+      {
+        "icon_name": "减",
+        "name": "满减优惠",
+        "description": "满30减5，满60减8",
+        "icon_color": "f07373",
+        "id": 1,
+        "_id": "5c0736e6777a205b1afd2364"
+      },
+      {
+        "icon_name": "新",
+        "name": "新用户立减",
+        "description": "满50减100",
+        "icon_color": "70bc46",
+        "id": 2,
+        "_id": "5c0736e6777a205b1afd2363"
+      }
+    ],
+    "__v": 0
+  }
+]
